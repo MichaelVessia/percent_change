@@ -25,3 +25,7 @@ Percent.change(a, b)
 
 Positive values represent an increase, while negative values represent decrease.  0 means the numbers are the same.
 
+## License
+
+MIT © [Michael Vessia](http://vessia.net)
+
