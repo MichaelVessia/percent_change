@@ -1,5 +1,5 @@
 # percent_change
-Find the relative percent change between two numbers
+Find the relative percent change between two numbers.
 
 ## Installation
 
@@ -14,7 +14,7 @@ gem install percent_change
 Require the gem:
 
 ```
-require 'percent_change
+require 'percent_change'
 ```
 
 Call the function:
@@ -22,4 +22,6 @@ Call the function:
 ```
 Percent.change(a, b)
 ```
+
+Positive values represent an increase, while negative values represent decrease.  0 means the numbers are the same.
 
